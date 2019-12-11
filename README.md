@@ -3,7 +3,7 @@
 
 # Сценарии использования
 - сохранять из браузера интересные статьи для последующего удобного прочтения через Instant View (получается такой аналог Pocket). Instant View для любых статей делают боты @chotamreaderbot, @CorsaBot и др. Для удобной отправки ссылок ботам было написано расширение для браузера ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/instant-view/)).
-- одним кликом отправлять из браузера текст в Saved Messages (или любой другой чат). Например, через такой [букмарклет](https://gist.github.com/shikhov/2c976ae58fef28fed3619f6f55c7512e). В переменных ba и ch соответственно URL развернутого приложения и ID чата назначения (me означает Saved Mesages, оно же Избранное). Код минифицировать и запускать через расширение [SPC](https://addons.mozilla.org/en-US/firefox/addon/searchfrompopuporcontextmenu/) (Firefox).
+- одним кликом отправлять из браузера текст в Saved Messages (или любой другой чат). Например, через такой [букмарклет](https://gist.github.com/shikhov/2c976ae58fef28fed3619f6f55c7512e). В переменных ba и ch соответственно URL развернутого приложения и ID чата назначения (me означает Saved Messages, оно же Избранное). Код минифицировать и запускать через расширение [SPC](https://addons.mozilla.org/en-US/firefox/addon/searchfrompopuporcontextmenu/) (Firefox).
 
 - любая другая автоматизация, для которой не хватает возможностей Bot API
 
